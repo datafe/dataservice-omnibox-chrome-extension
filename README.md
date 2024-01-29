@@ -14,7 +14,7 @@
 
 ### 应用安装 Extension Installation 
 
-- 插件安装地址 [link](https://chromewebstore.google.com/detail/%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%9B%BE%E6%90%9C%E7%B4%A2/jepgnngepfkgbnmiojimhengljiofeee?hl=en)
+- 插件安装地址 [link](https://chromewebstore.google.com/detail/%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1%E6%90%9C%E7%B4%A2/bnfonjikncgflidcdjkdaongjcmnpnol?hl=en)
 
 - 此插件能将输入的搜索字跳转至 DataWorks 数据服务
 
